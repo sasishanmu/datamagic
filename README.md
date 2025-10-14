@@ -1,0 +1,3 @@
+# DataMagic
+
+This is a repository for DataMagic, a project that aims to...
